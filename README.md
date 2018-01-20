@@ -59,7 +59,7 @@ Annotate the spectrogram to indicate current time and selected detector.
  * Extra: Turn each into audio.  (Don't autoplay though.)
 
 
-## Component 3: UFO database and supplemental data
+## Component 2: UFO database and supplemental data
 
 For this component, you are to build an interactive visualization of the UFO
 sighting database we have been working with.

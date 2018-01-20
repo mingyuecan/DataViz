@@ -12,8 +12,7 @@ construct a visualization that "answers" the posed question.
 There are a few important notes:
 
  * All of the source code must be provided.
- * Use GitHub to version your code and your writeup.  This will also be used to
-   verify individual contributions.
+ * Use GitHub to version your code and your writeup. 
  * The writeup will be evaluated.
  * A "visualization" does not mean a single plot; it is broadly defined to
    include linked visualizations, collections of plots, etc.
@@ -59,23 +58,6 @@ Annotate the spectrogram to indicate current time and selected detector.
 
  * Extra: Turn each into audio.  (Don't autoplay though.)
 
-
-## Component 2: Transportable Array Movie [Optional]
-
-Make a time-varying visualization of the transportable array and how it
-responds to an earthquake.  You will be graded on the information that is
-communicated and the aesthetics.
-
-This does not have to be a strictly quantitative visualization, and it can be
-done in any software.  You may choose to augment this with 
-
-Your writeup of this should *very* clearly state what you intend for
-individuals to get out of the visualization as well as how you did it.  Because
-this is an open-ended problem, by design, you *must* describe what you intended
-to communicate.
-
-This should be uploaded to mediaspace.illinois.edu and any source code placed
-in this repository.
 
 ## Component 3: UFO database and supplemental data
 
@@ -134,10 +116,10 @@ Federal Information Processing Standards.  In `part3/starter_code.py` you can
 see how to obtain the FIPS number for each state, as well as one way of
 plotting data in `bqplot` based on FIPS-keyed information.
 
-## Component 4: Infographic 
+## Component 3: Infographic 
 
 Concept: From the visualization you constructed in either component 1 or
-component 3, construct a narrative. You should take the visual output, possibly
+component 2, construct a narrative. You should take the visual output, possibly
 modifying it (potentially with something like photoshop or gimp) to fit the
 style of the rest of your text.
 
@@ -159,5 +141,3 @@ These should describe in some detail:
  * Strengths of your approach
  * Weaknesses of your approach
  * What you wished you had been able to do (if anything)
- * Who in the group contributed each part of the visualization (from code, data
-   management, data cleaning, writeup, and so on.)
